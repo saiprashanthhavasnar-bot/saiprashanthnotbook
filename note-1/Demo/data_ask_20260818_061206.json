@@ -1,0 +1,17 @@
+{
+  "executedBy": "GNANI_EAI_APP",
+  "executionDate": "2026-08-18 06:12:05",
+  "columns": [
+    "Department Name",
+    "Number of Employees"
+  ],
+  "data": [
+    {"Department Name":"Department_2","Number of Employees":2},
+    {"Department Name":"qa","Number of Employees":2},
+    {"Department Name":"Department_3","Number of Employees":1},
+    {"Department Name":"Department_1","Number of Employees":1},
+    {"Department Name":"Support","Number of Employees":1},
+    {"Department Name":"engg","Number of Employees":1}
+  ],
+  "totalRecords": 6
+}
